@@ -32,14 +32,14 @@
 ## About The Project
 
 <span>
-  <img src="https://user-images.githubusercontent.com/26175544/68094632-76057a80-fe9a-11e9-85ba-bbfad96d9f79.gif" width="150" height="auto">
-  <img src="https://user-images.githubusercontent.com/26175544/68094640-92091c00-fe9a-11e9-90e3-db6257630bca.png" width="150" height="auto">
-  <img src="https://user-images.githubusercontent.com/26175544/68094646-9f260b00-fe9a-11e9-895d-ddbaa0638900.png" width="150" height="auto">
+  <img src="https://user-images.githubusercontent.com/26175544/68094632-76057a80-fe9a-11e9-85ba-bbfad96d9f79.gif" width="250" height="auto">
+  <img src="https://user-images.githubusercontent.com/26175544/68094640-92091c00-fe9a-11e9-90e3-db6257630bca.png" width="250" height="auto">
+  <img src="https://user-images.githubusercontent.com/26175544/68094646-9f260b00-fe9a-11e9-895d-ddbaa0638900.png" width="250" height="auto">
 </span>
 <span>
-  <img src="https://user-images.githubusercontent.com/26175544/68094654-aa793680-fe9a-11e9-99c3-b5b702d430fa.png" width="150" height="auto">
-  <img src="https://user-images.githubusercontent.com/26175544/68094658-b5cc6200-fe9a-11e9-8f5f-79b67e2f62d0.png" width="150" height="auto">
-  <img src="https://user-images.githubusercontent.com/26175544/68094661-be249d00-fe9a-11e9-8b52-0bfed63b8719.png" width="150" height="auto">
+  <img src="https://user-images.githubusercontent.com/26175544/68094654-aa793680-fe9a-11e9-99c3-b5b702d430fa.png" width="250" height="auto">
+  <img src="https://user-images.githubusercontent.com/26175544/68094658-b5cc6200-fe9a-11e9-8f5f-79b67e2f62d0.png" width="250" height="auto">
+  <img src="https://user-images.githubusercontent.com/26175544/68094661-be249d00-fe9a-11e9-8b52-0bfed63b8719.png" width="250" height="auto">
 </span>
 <br />
 Whilst learning Swift and iOS development, I decided to create an app that emulates the workings of a vending machine.
